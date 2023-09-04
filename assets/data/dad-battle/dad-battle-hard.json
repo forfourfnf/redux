@@ -2668,8 +2668,8 @@
 			}
 		],
 		"player3": null,
-		"song": "Dadbattle",
-		"stage": "stage-b-dark",
+		"song": "Dad Battle",
+		"stage": "stage",
 		"needsVoices": true,
 		"validScore": true,
 		"speed": 2.6,

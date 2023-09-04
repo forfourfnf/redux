@@ -1,346 +1,116 @@
 {
 	"song": {
-		"player1": "bf",
-		"song": "Bopeebo",
-		"player2": "dad",
-		"notes": [
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+		"events": [
+			[
+				25125,
+				[
 					[
-						4290,
-						-1,
-						"Hey!",
-						"0",
+						"Toggle_FlxTrail",
+						"",
+						"on"
+					],
+					[
+						"Wacky Zoom",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				25875,
+				[
 					[
-						9090,
-						-1,
-						"Hey!",
-						"0",
+						"Toggle_FlxTrail",
+						"",
+						"off"
+					]
+				]
+			],
+			[
+				27125,
+				[
+					[
+						"Toggle_FlxTrail",
+						"",
+						"on"
+					],
+					[
+						"Wacky Zoom",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				27875,
+				[
 					[
-						13890,
-						-1,
-						"Hey!",
-						"0",
+						"Toggle_FlxTrail",
+						"",
+						"off"
+					]
+				]
+			],
+			[
+				41100,
+				[
+					[
+						"Wacky Zoom",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				43100,
+				[
 					[
-						18690,
-						-1,
-						"Hey!",
-						"0",
+						"Wacky Zoom",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				57100,
+				[
 					[
-						23490,
-						-1,
-						"Hey!",
-						"0",
+						"Wacky Zoom",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				59100,
+				[
 					[
-						28290,
-						-1,
-						"Hey!",
-						"0",
+						"Wacky Zoom",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				73100,
+				[
 					[
-						33090,
-						-1,
-						"Hey!",
-						"0",
+						"Wacky Zoom",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				75100,
+				[
 					[
-						37890,
-						-1,
-						"Hey!",
-						"0",
+						"Wacky Zoom",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
-					[
-						42690,
-						-1,
-						"Hey!",
-						"0",
-						""
-					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
-					[
-						47490,
-						-1,
-						"Hey!",
-						"0",
-						""
-					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
-					[
-						52290,
-						-1,
-						"Hey!",
-						"0",
-						""
-					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
-					[
-						57090,
-						-1,
-						"Hey!",
-						"0",
-						""
-					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
-					[
-						61890,
-						-1,
-						"Hey!",
-						"0",
-						""
-					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
-					[
-						66690,
-						-1,
-						"Hey!",
-						"0",
-						""
-					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
-					[
-						71490,
-						-1,
-						"Hey!",
-						"0",
-						""
-					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
-					[
-						76290,
-						-1,
-						"Hey!",
-						"0",
-						""
-					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 100
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 100
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 100
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 100
-			},
-			{
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"bpm": 100,
-				"changeBPM": false,
-				"mustHitSection": true
-			}
-		],
-		"needsVoices": true,
-		"validScore": true,
-		"bpm": 100,
-		"speed": 1.3
+				]
+			]
+		]
 	}
 }
