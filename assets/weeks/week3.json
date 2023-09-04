@@ -1,22 +1,50 @@
 {
-	"songs": [
-		["Pico", "pico", [148, 22, 83]],
-		["Philly Nice", "pico", [148, 22, 83]],
-		["Blammed", "pico", [148, 22, 83]]
-	],
-
-	"weekCharacters": [
-		"pico",
-		"bf",
-		"gf"
-	],
+	"storyName": "Biker Gang",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
 	"weekBackground": "philly",
-
-	"storyName": "PICO",
-	"weekBefore": "week2",
-	"weekName": "Week 3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Pico",
+			"tankman",
+			[
+				206,
+				113,
+				0
+			]
+		],
+		[
+			"Philly Nice",
+			"tankman",
+			[
+				206,
+				113,
+				0
+			]
+		],
+		[
+			"Blammed",
+			"tankman",
+			[
+				206,
+				113,
+				0
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Week 3",
+	"hiddenUntilUnlocked": false
 }

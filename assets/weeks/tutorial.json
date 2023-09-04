@@ -1,20 +1,32 @@
 {
-	"songs": [
-		["Tutorial", "gf", [165, 0, 77]]
+	"storyName": "You Got This",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "limo",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
+	"weekBefore": "001",
+	"startUnlocked": true,
 	"weekCharacters": [
 		"",
-		"bf",
-		"gf"
+		"",
+		""
 	],
-	"weekBackground": "stage",
-
-	"storyName": "",
-	"weekBefore": "tutorial",
-	"weekName": "Tutorial",
-	"startUnlocked": true,
-
+	"songs": [
+		[
+			"Tutorial",
+			"gf",
+			[
+				184,
+				141,
+				230
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Tutorial",
+	"hiddenUntilUnlocked": false
 }
